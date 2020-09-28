@@ -59,14 +59,14 @@ hr{
 }
 .top-cloud{
   position: absolute;
-  right:400px;
- top:200px;
+  right:300px;
+ top:50px;
 
 }
 .bottom-cloud{
   position: absolute;
-  left:400px;
-  bottom:400px;
+  left:300px;
+  bottom:300px;
 }
 .middle-container{
   margin:100px 0;
@@ -80,7 +80,7 @@ hr{
     font-family: 'David Libre', serif;
     margin:10px 20px;
     text-decoration: none;
-    font-size:1.3em;
+
 
 
   }
@@ -90,7 +90,7 @@ hr{
   }
   .copyright{
     color: #f6f6f6;
-    font-size: 1.2em;
+    font-size: 0.8em;
     padding: 10px 0;
   }
   .profile{
@@ -115,7 +115,7 @@ hr{
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family:  'David Libre', serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
