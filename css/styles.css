@@ -59,13 +59,13 @@ hr{
 }
 .top-cloud{
   position: absolute;
-  right:300px;
+  right:200px;
  top:50px;
 
 }
 .bottom-cloud{
   position: absolute;
-  left:300px;
+  left:200px;
   bottom:300px;
 }
 .middle-container{
@@ -90,7 +90,7 @@ hr{
   }
   .copyright{
     color: #f6f6f6;
-    font-size: 0.8em;
+    font-size: 0.75rem;
     padding: 10px 0;
   }
   .profile{
